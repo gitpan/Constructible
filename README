@@ -1,0 +1,13 @@
+
+
+This archive contains the distribution Constructible,
+version 0.02:
+
+  Provides an interface to Maxima(full-featured CAS) as well as means to visualize and compute constructible numbers.
+
+This software is copyright (c) 2011 by Stefan Petrea.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+

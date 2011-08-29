@@ -1,0 +1,14 @@
+
+
+
+0.21 Mon Aug 29 21:38:27 EEST 2011
+    - added a run_command_async and some tests for it
+    - added wait_async_commands to wait for outstanding calls
+    - added support/tests for multiline results from Maxima
+    - jam() rewrite
+    - CPAN release
+
+0.1 Mon Aug 22 04:10:12 EEST 2011
+    - first tag
+    - wrote an interface for Maxima, main purpose will be to simplify expressions, in particular coordinates of points
+    - still need to refactor Constructible.pm and package with dzil
